@@ -1,0 +1,30 @@
+.wrapper{
+    min-height: 100vh;
+    width: 100%;
+    background: #728FCE;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.start_btn{
+    width: 200px;
+    height: 35px;
+    margin-bottom: 25px;
+    cursor: pointer;
+    color:aliceblue;
+    outline: none;
+    background: #728FCE;
+    border: 1px solid white;
+}
+
+.start_btn:hover {
+    background: #fff;
+    color: #728FCE;
+    transition: .3s all ease;
+}
+.info{
+    margin-top: 25px;
+    font-size: 36px;
+    color:#fff;
+}

@@ -1,4 +1,12 @@
-.game-board
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family:'Roboto', sans-serif;
+}
+
+
+/* .game-board
 {
 	width: 600px;
 	height: 600px;
@@ -22,4 +30,4 @@
   display: flex;
   justify-content: center;
   align-items: center;
-}
+} */
